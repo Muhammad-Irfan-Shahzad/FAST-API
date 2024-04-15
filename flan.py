@@ -1,6 +1,6 @@
 from huggingface_hub import HfApi, HfFolder
 
-TOKEN = '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'
+TOKEN = 'hf111111111111111111111111111111111'
 
 api = HfApi()
 api.token = TOKEN
