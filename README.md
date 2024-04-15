@@ -1,2 +1,2 @@
 # FAST-API
-AI + web
+flan T5 model integrate using fast api.
